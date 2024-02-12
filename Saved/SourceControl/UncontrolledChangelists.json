@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/k/Documents/Unreal Projects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/Character/ABP_TutChar.uasset",
+				"C:/Users/k/Documents/Unreal Projects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/CR_ElliotTut.uasset",
+				"C:/Users/k/Documents/Unreal Projects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/Tut_Char.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/ImprovedProceduralCharacterLevel.umap",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ImprovedProceduralCharacterLevel.umap",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/Character/ImprovedProceduralCharacterAnimBP.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/ImprovedFinishedControlRig.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/NewModifiedControlRig.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/Character/TutorialAnimBlueprint.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/CompletedTutorialControlRig.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/TutorialControlRig.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/ImprovedProceduralCharacterMode.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ImprovedProceduralCharacterMode.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/Tut_Char.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/Character/CompletedTutorialAnimBlueprint.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/ImprovedCompletedControlRig.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/ImprovedProcAnimCharacter.uasset",
+				"C:/UEProjects/ProceduralAnimCourse/Content/ProceduralWalkTutorial/TutorialLevel.umap"
+			]
+		}
+	]
+}
